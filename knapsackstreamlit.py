@@ -103,5 +103,5 @@ Branch & Bound is an approach based on the principle that the total set of feasi
 st.write(""" It is important to note that while this problem seems simple, it becomes exponentially more complex when the number of objects(**n**) goes higher, which makes the knapsack problem an **NP** complete problem""")
 
 st.write(""" Knapsack problems appear in real-world decision-making processes in a wide variety of fields, such as finding the least wasteful way to cut raw materials, selection of investments and portfolios, selection of assets for asset-backed securitization, and generating keys for the Merkle–Hellman[6] and other knapsack cryptosystems.""")
-st.image("https://raw.githubusercontent.com/malikbf5/ORSC-Knapsack/blob/main/png1.png")
+st.image("https://raw.githubusercontent.com/malikbf5/ORSC-Knapsack/blob/main/png1.png",width = 500)
 
