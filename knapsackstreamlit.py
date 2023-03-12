@@ -21,7 +21,7 @@ with col1:
     st.write(' ')
 
 with col2:
-    st.image(knapsackimage,width = 300))
+    st.image(knapsackimage,width = 300)
 
 with col3:
     st.write(' ')
