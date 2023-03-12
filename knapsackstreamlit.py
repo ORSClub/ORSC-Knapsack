@@ -35,7 +35,7 @@ w = [2,5,10,5,3,8,7,4,3,5]
 w_2 = [2,5,10,5,3,8,7,4,3,5]
 d, e = [], []
 ##########################################################################################
-st.write("""In this example we have **n** = 10 objects with different profits and weights and the maximum weight of our knapsack is **W** = 25
+st.write("""In this example we have **n = 10** objects with different profits and weights and the maximum weight of our knapsack is **W = 25**
 
 Your challenge is to find a combination of objects that maximizes your profit while respecting the maximum weight condition""")
 ##########################################################################################
