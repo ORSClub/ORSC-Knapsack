@@ -15,7 +15,7 @@ we have to find an optimal answer among all the possible combinations. In this p
 we are given a set of items having different weights and profits. We have to find 
 the optimal solution considering all the given items.
 """)
-st.image(knapsackimage,width = 300)
+st.columns(3)[1]..image(knapsackimage,width = 300)
 
 W = 25
 n = 10
