@@ -19,7 +19,9 @@ the optimal solution considering all the given items.
 W = 25
 n = 10
 p = [40,30,50,10,25,48,17,22,2,11]
+p_2 = [40,30,50,10,25,48,17,22,2,11]
 w = [2,5,10,5,3,8,7,4,3,5]
+w_2 = [2,5,10,5,3,8,7,4,3,5]
 d, e = [], []
 ##########################################################################################
 st.write("""In this example we have **n** = 10 objects with different profits and weights and the maximum weight of our knapsack is **W** = 25
@@ -41,8 +43,8 @@ def user_score(solution):
     weight = 0
     profit = 0
     for i in range(len(solution)):
-        weight = weight + w[solution[i]]
-        profit = profit + p[solution[i]]
+        weight = weight + w_2[solution[i]]
+        profit = profit + p_2[solution[i]]
     if weight > W:
         st.write("Your solution surpassed the maximum weight")
     else :
