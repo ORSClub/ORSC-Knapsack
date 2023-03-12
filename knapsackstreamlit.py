@@ -114,7 +114,7 @@ st.write(""" It is important to note that while this problem seems simple, it be
 
 st.write(""" Knapsack problems appear in real-world decision-making processes in a wide variety of fields, such as: 
 - finding the least wasteful way to cut raw materials 
-- selection of investments and portfolios, selection of assets for asset-backed securitization 
+- selection of investments and portfolios and selection of assets for asset-backed securitization 
 - container ship and aircraft loading 
 - generating keys for the Merkle–Hellman and other knapsack cryptosystems""")
 st.image(img)
